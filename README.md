@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Volkan Öztürk.</h1>
 - 🌱 I’m currently learning **Test Automation development with Selenium.**
+- 📫 How to reach me volkan.ozturkis@hotmail.com
 
 
 <p align="left">
