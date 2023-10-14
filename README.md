@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Volkan Öztürk.</h1>
-- 🌱 I’m currently learning **Test Automation development with Selenium.**
-- 📫 How to reach me volkan.ozturkis@hotmail.com
+
+- 🌱 I’m currently learning **Selenium** and **Java Spring**
+
+- 📫 How to reach me **volkan.ozturkis@hotmail.com**
 
 
 <p align="left">
@@ -19,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cevolkan-ozturk&show_icons=true&locale=en&layout=compact" alt="cevolkan-ozturk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cevolkan-ozturk&show_icons=true&locale=en" alt="cevolkan-ozturk" /></p>
+
